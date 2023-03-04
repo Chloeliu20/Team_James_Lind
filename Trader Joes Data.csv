@@ -1,0 +1,51 @@
+Food Item,Price of Item (USD),Number of Servings,Energy,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholestrol (mg),"Sodium, Na","Carbohydrate, by difference","Fiber, total dietary",Total Sugars (g),Added Sugars (g),Protein,Vitamin D (mcg),"Calcium, Ca","Iron, Fe","Potassium, K"
+Vegetable Fried Rice,2.99,3,230,2.5,0,0,0,510,45,3,3,1,6,0,0,0.9,190
+Korean Beefless Bulgogi,4.49,3,230,11,2,0,0,580,15,5,6,6,16,0,60,5.3,190
+Cheese & Green Chile Tamales ,3.79,2,290,16,6,0,20,610,28,2,2,0,8,0.1,200,1.2,200
+Stir Fried Garlicky Cabbage,3.49,2,130,9,2,0,0,620,9,4,5,1,3,0,50,0.5,350
+Vegetarian Meatless Cheeseburger Pizza,5.99,3,340,15,5,0,20,790,37,3,4,0,14,0,190,2.4,310
+Roasted Garlic & Pesto Pizza with Deep Fried Crust,5.99,3,430,20,9,0,25,900,43,3,1,0,17,0.3,260,1.2,170
+Chickenless Crispy Tenders,3.79,3,170,7,0.5,0,0,380,14,4,1,1,13,0,30,1.4,270
+Bulgogi Beef Fried Rice with Kimchi,5.49,1,400,10,1.5,0,20,1150,60,3,7,5,11,0,50,1.5,300
+Bulgur Pilaf with Butternut Squash & Feta Cheese,3.49,3.5,200,10,3,0,10,380,20,2,3,0,6,0,40,1,250
+Chicken Burrito Bowl,3.49,1,370,10,4.5,0,55,630,51,9,2,0,22,0,130,2.6,690
+Italian Tomato & Red Onion Focaccia,3.99,3,280,7,1,0,0,500,48,3,13,0,8,0,20,0.8,250
+Cuban Style Citrus Garlic Bowl ,3.99,1,400,18,2,0,45,540,44,1,13,3,16,0.2,30,2.3,300
+Hashbrowns,2.49,10,120,6,1,0,0,250,15,1,0,0,1,0,10,0.4,210
+Pão D'Água Portuguese Rolls,2.29,4,160,0.5,0,0,0,230,33,2,2,0,5,0,60,0.8,70
+Layered Beef Tostada,3.99,1,460,23,12,0.5,70,830,38,8,3,1,28,0,260,3.9,520
+Mini Chicken Tacos,5.99,6,260,13,2.5,0,20,430,24,4,1,0,11,0,30,0.6,200
+Mini Beef Tacos,5.99,6,270,14,3,0,15,460,23,5,1,0,11,0,40,1.1,180
+Hatch Chile Mac & Cheese,2.99,2,260,10,6,0,30,430,31,1,3,0,11,25,260,1.4,190
+Tteok Bok Ki,3.99,1,280,1.5,0,0,0,420,61,3,10,10,5,0,30,1.1,130
+Jamaican Style Beef Patties,4.49,1,440,22,10,0.5,30,590,45,3,4,1,15,0,50,3.1,220
+Kalua Pork Spring Rolls,4.79,2,290,14,3,0,15,500,33,2,3,0,8,0,30,0.8,220
+Beef Birria,7.99,2,280,15,5,0,105,1090,3,0,1,0,32,0,20,4.5,650
+BBQ  Teriyaki Chicken,5.99,4,240,9,2,0,135,710,11,1,10,10,31,0,10,1.2,350
+Italian Style Meatballs,4.99,6,240,20,8,1,65,450,5,1,2,11,0,0,0,0,0
+Premium Salmon Burgers,7.49,4,100,3,0.5,0,20,330,3,0,1,1,15,20.9,0,0.3,320
+Mandarin Orange Chicken,4.99,5,320,16,3.5,0,95,330,24,1,6,0,21,0,0,0,0
+Egg Frittata,3.49,1,270,15,10,0,135,620,10,1,3,0,25,0.3,390,0.7,260
+Mexican Style Roasted Corn,3.79,3.5,180,8,2,0,15,115,21,5,8,0,5,0,30,0.4,200
+Mixed Mushroom & Spinach Quiche,2.69,1,420,26,17,0,205,660,35,2,1,0,12,1.8,300,1.2,540
+BBQ Teriyaki Chicken,5.99,4,240,9,2,0,135,710,11,1,10,10,31,0,10,1.2,350
+Eggwich Breadless Breakfast Sandwhich ,4.99,2,190,12,5,0,265,610,3,0,1,0,16,1.3,120,1.9,190
+Southwest Style Chicken Quesadillas,4.29,2,410,19,11,0,55,440,36,3,2,0,23,0.2,450,1.4,270
+Kimchi & Tofu Soup,3.49,1,260,6,1,0,0,980,43,4,14,4,11,0,90,2.3,330
+Vegetable Pad Thai,3.49,1,360,11,4.5,0,0,950,55,5,27,20,10,0,50,2,410
+Spicy Thai Shrimp Fried Rice,5.99,3,220,5,2,0,15,400,37,1,2,0,7,0.8,20,0.4,130
+Carne Asada Burritos,4.99,2,490,19,5,0,50,880,55,3,2,0,22,0,100,2.9,360
+Vegan Pasta Bolognese Bowl,3.49,1,430,10,1.5,0,0,690,55,13,10,0,30,0,90,5.4,1540
+Cheese Filled Fiocchetti with Pink Sauce,3.99,3,290,17,10,0,65,370,26,1,2,0,8,0,100,0.7,160
+Quiche Lorraine,5.49,3,340,22,12,0.5,200,470,20,1,2,0,15,1,180,2,210
+Beef Pho,3.49,1,220,4.5,1,0,25,860,34,1,1,0,13,0,40,1.6,240
+Cauliflower Gnocchi,2.99,2.5,140,3,0.5,0,0,460,22,6,1,0,2,0,40,0.9,210
+Gluten Free Mac & Cheese,3.69,2,300,10,5,0,30,600,41,1,3,0,11,0.7,140,0.7,80
+Steamed Pork & Ginger Soup Dumplings,3.49,1,270,10,3,0,40,560,30,1,3,2,14,0.2,20,1.9,190
+Sriracha Shrimp Bowl,3.49,1,320,8,1.5,0,35,690,47,1,3,2,15,3.5,220,1.6,340
+Chicken-less Mandarin Orange Morsels,3.79,2,270,8,0.5,0,0,720,29,7,15,15,20,0,50,2,400
+Pizza Parlano,4.99,4,330,16,6,0,30,620,33,1,5,13,0,0,0,0,0
+Outside-In Stuffed Gnocchi,3.69,3.5,180,3.5,2,0,30,680,29,3,6,0,6,0,60,0.5,390
+Cuban Style Citrus Garlic Bowl,3.99,1,400,18,2,0,45,540,44,1,13,3,16,0.2,30,2.3,300
+Honey Walnut Shrimp,6.99,2,500,28,8,0,125,670,22,2,26,23,24,0,63,0,141
+Chipotle Vegetable Quesadillas,3.69,2,360,13,5,0,30,510,47,4,3,2,15,0.1,290,2,250
